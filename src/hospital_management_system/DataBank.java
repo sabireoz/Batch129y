@@ -5,10 +5,6 @@ import java.util.List;
 import java.util.*;
 public class DataBank {
 
-
-
-
-
   /*  static Map<Integer, String > patientListMap = new HashMap<>();
     protected String[]  = { "Nilson", "John", "Robert", "Marry", "Alan", "Mahesh"};
     protected String[] doctorSurname = { "Avery", "Abel", "Erik", "Jacob", "Pedro", "Tristen"};

@@ -8,11 +8,9 @@ package hospital_management_system;
         private String doctorSurname;
         private String title;
 
-
         public Doctor() {
 
         }
-
 
         public Doctor(String name, String surName, String title) {
             this.doctorName = name;
