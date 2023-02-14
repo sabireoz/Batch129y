@@ -41,12 +41,11 @@ public class OkulMain {
                     ogrenci.setYas(scanner.nextInt());
                     if (ogrenci.getYas() < 8 || ogrenci.getYas() > 15) {
                         throw new ArithmeticException();}
-                    }catch (ArithmeticExcepti exception){
-                    System.out.println("Ogrenci  yasi 8 ile 15 araliginda olmalidir");
-
-                }catch (Exception exception){System.out.println("Gecerli bir sayi giriniz"
+                    } catch (Exception exception){
+                    System.out.println("Gecerli bir sayi giriniz");
 
                 }
+
 
 
             }
